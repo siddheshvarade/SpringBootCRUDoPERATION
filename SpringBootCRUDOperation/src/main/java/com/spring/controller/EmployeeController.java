@@ -23,7 +23,7 @@ import com.spring.service.EmployeeService;
 @RequestMapping("/employee")
 public class EmployeeController {
 
-	//hii...
+	
 	@Autowired
 	EmployeeService employeeService;
 
